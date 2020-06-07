@@ -21,7 +21,7 @@ Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 # Other Info
 **Editor:** vim.
 
-**WM:*** [regolith](https://regolith-linux.org/)
+**WM:** [regolith](https://regolith-linux.org/)
 
 **OS:** [Pop!\_os](https://pop.system76.com/)
 
