@@ -5,6 +5,7 @@ Here are my current mod roles.
 * [beginbot](https://twitch.tv/beginbot) - a python twitch streamer.
 * [upjump](https://twitch.tv/upjump) - a retro game streamer.
 * Was a mod for [ryantupo](https://twitch.tv/ryantupo) - a learning python streamer.
+* Pending mod for [brawrdon](https://www.twitch.tv/brawrdon) - a coder, also playes Overwatch.
 
 Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 
