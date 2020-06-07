@@ -20,9 +20,15 @@ Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 
 # Other Info
 **Editor:** vim.
+
 **WM:*** [regolith](https://regolith-linux.org/)
+
 **OS:** [Pop!\_os](https://pop.system76.com/)
+
 **Twitch:** [vivax3794](twitch.tv/vivax3794)
+
+
 **Discord:** `vivax#7908`
+
 **GitHub:** [vivax3794](https://github.com/vivax3794)
 
