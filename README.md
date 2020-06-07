@@ -25,8 +25,7 @@ Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 
 **OS:** [Pop!\_os](https://pop.system76.com/)
 
-**Twitch:** [vivax3794](thttps://witch.tv/vivax3794)
-
+**Twitch:** [vivax3794](https://twitch.tv/vivax3794)
 
 **Discord:** `vivax#7908`
 
