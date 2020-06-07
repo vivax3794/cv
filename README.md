@@ -2,14 +2,14 @@
 Here are my current mod roles.
 
 ## Twitch
-* [beginbot](twitch.tv/beginbot) - a python twitch streamer.
-* [upjump](twitch.tv/upjump) - a retro game streamer.
-* Was a mod for [ryantupo](twitch.tv/ryantupo) - a learning python streamer.
+* [beginbot](https://twitch.tv/beginbot) - a python twitch streamer.
+* [upjump](thttps://witch.tv/upjump) - a retro game streamer.
+* Was a mod for [ryantupo](thttps://witch.tv/ryantupo) - a learning python streamer.
 
 Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 
 ## Discords
-* [python-discord](discord.gg/python "discord invite to the server") - a big python server,almost 60k users.
+* [python-discord](https://discord.gg/python "discord invite to the server") - a big python server,almost 60k users.
 
 # Programming Experience 
 * Python - idk when I started.
@@ -25,7 +25,7 @@ Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 
 **OS:** [Pop!\_os](https://pop.system76.com/)
 
-**Twitch:** [vivax3794](twitch.tv/vivax3794)
+**Twitch:** [vivax3794](thttps://witch.tv/vivax3794)
 
 
 **Discord:** `vivax#7908`
