@@ -17,6 +17,7 @@ Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 * html / css - just the basics
 * Angular - did it for a week
 * TypeScript - learnt it with Angular
+* Learning Rust - know the basics so far, still learning.
 
 # Other Info
 **Editor:** vim.
