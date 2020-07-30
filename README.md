@@ -4,7 +4,7 @@ Here are my current mod roles.
 ## Twitch
 * [beginbot](https://twitch.tv/beginbot) - a python twitch streamer.
 * [upjump](https://twitch.tv/upjump) - a retro game streamer.
-* Was a mod for [ryantupo](https://twitch.tv/ryantupo) - a learning python streamer.
+* ~~Was a mod for [ryantupo](https://twitch.tv/ryantupo)~~ I have regained mod powers baby! - a learning python streamer.
 
 Live list of streams I mod: <https://modlookup.3v.fi/u/vivax3794>
 
